@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Taller3_Marin.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:local="using:Taller3_Marin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="ParentPanel">
+        <!-- <Maps:MapControl Name="MyMap" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,100,0,0" 
+                         Width="1300" Height="800"
+                         Style="Terrain" 
+                         ZoomInteractionMode="GestureAndControl"
+                         TiltInteractionMode="GestureAndControl"
+                         MapServiceToken="d1nT6L6BIW1KVTo7492l~AyUKF1AqM59hXqXhVXEIEw~AiiTK8OBYeGp0a0Q0U85jJ9rEmjwhVPSEYlAyizxDGAauac2yBdVZmGSSWqnEDos"
+                         />
+        -->
+    </Grid>
+</Page>
